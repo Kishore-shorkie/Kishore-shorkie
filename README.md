@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I’m Abhay.</h2>
+<h1 align="left">Hi 👋! I’m Kishore.</h2>
 <h2 align="left">I love creating new things ⚡<br>Turning imagination into reality 🚀</h2>
 
 
@@ -23,10 +23,10 @@
 
 <div align="left">
   <h2 align="left">Socials</h2>
- <a href="https://www.instagram.com/_abhyyy_._/">
+ <a href=https://www.instagram.com/kish_m_k_/>
    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
 </a>
- <a href="https://www.linkedin.com/in/abhay-prasad-5339bb29a/">
+ <a href=https://www.linkedin.com/in/kishore-mohan-4a9737275/>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
 </a>
 </div>
